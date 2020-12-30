@@ -6,38 +6,46 @@
       {
         "path": "/",
         "name": "home",
-        "component": "D:\\\\LAGOU\\\\realworld\\\\pages\\\\home"
+        "component": "D:\\\\LAGOU\\\\realworld\\\\pages\\\\home",
+        "_name": "_656697db"
       },
       {
         "path": "/login",
         "name": "login",
-        "component": "D:\\\\LAGOU\\\\realworld\\\\pages\\\\login"
+        "component": "D:\\\\LAGOU\\\\realworld\\\\pages\\\\login",
+        "_name": "_47a4abed"
       },
       {
         "path": "/register",
         "name": "register",
-        "component": "D:\\\\LAGOU\\\\realworld\\\\pages\\\\login"
+        "component": "D:\\\\LAGOU\\\\realworld\\\\pages\\\\login",
+        "_name": "_47a4abed"
       },
       {
         "path": "/settings",
         "name": "settings",
-        "component": "D:\\\\LAGOU\\\\realworld\\\\pages\\\\settings"
+        "component": "D:\\\\LAGOU\\\\realworld\\\\pages\\\\settings",
+        "_name": "_10f6811f"
       },
       {
         "path": "/article/:slug",
         "name": "article",
-        "component": "D:\\\\LAGOU\\\\realworld\\\\pages\\\\article"
+        "component": "D:\\\\LAGOU\\\\realworld\\\\pages\\\\article",
+        "_name": "_9dcb0f0c"
       },
       {
         "path": "/profile/:username",
         "name": "profile",
-        "component": "D:\\\\LAGOU\\\\realworld\\\\pages\\\\profile"
+        "component": "D:\\\\LAGOU\\\\realworld\\\\pages\\\\profile",
+        "_name": "_6b5f95a6"
       },
       {
         "path": "/create",
         "name": "create",
-        "component": "D:\\\\LAGOU\\\\realworld\\\\pages\\\\create"
+        "component": "D:\\\\LAGOU\\\\realworld\\\\pages\\\\create",
+        "_name": "_c4831610"
       }
-    ]
+    ],
+    "_name": "_a79861b4"
   }
 ]
