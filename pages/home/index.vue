@@ -2,7 +2,7 @@
   <div class="home-page">
     <div class="banner">
       <div class="container">
-        <h1 class="logo-font">再试一试行不行应该可以大功告成</h1>
+        <h1 class="logo-font">好开心啊，可以持续部署了</h1>
         <p>A place to share your knowledge.</p>
       </div>
     </div>
