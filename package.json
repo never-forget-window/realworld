@@ -18,5 +18,8 @@
     "js-cookie": "^2.2.1",
     "markdown-it": "^12.0.4",
     "nuxt": "^2.14.12"
+  },
+  "devDependencies": {
+    "cross-env": "^7.0.3"
   }
 }
